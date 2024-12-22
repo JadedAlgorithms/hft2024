@@ -1,7 +1,7 @@
 {
   "manifest_version": 3,
-  "name": "TrueNews Extension",
-  "version": "1.0",
+  "name": "InfoSafe",
+  "version": "1.0.0",
   "permissions": ["activeTab", "tabs"],
   "host_permissions": ["https://b265-34-148-89-27.ngrok-free.app/*"], 
   "action": {

@@ -1,6 +1,6 @@
 chrome.runtime.onMessage.addListener((message, sender, sendResponse) => {
   if (message.action === "fetchData") {
-    const apiUrl = "https://b265-34-148-89-27.ngrok-free.app/ask";
+    const apiUrl = "https://b265-34-148-89-27.ngrok-free.app/ask"; // Server API source, same in manifest.json too.
     const formData = new URLSearchParams();
     formData.append("user_url", message.payload.query); // Add the active tab's URL
 

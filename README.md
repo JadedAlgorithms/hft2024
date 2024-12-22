@@ -1,2 +1,3 @@
-# focus-mode
-This repository contains a focus mode chrome extension from: developer.chrome.com/docs/extensions/get-started/tutorial/scripts-activetab
+# InfoSafe
+
+This extension communicates with a server to check if the currently active page contains false / fake info.
