@@ -84,4 +84,5 @@ InfoSafe is an NLP-powered Chrome extension that helps users assess the reliabil
     @simonknowsstuff – Frontend & Extension Integration
 
     @AlvinGeorge-AG – UX Design & Data Flow
+    Nidhin Wilson - Developer
 
